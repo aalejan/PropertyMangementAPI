@@ -1,6 +1,7 @@
 ﻿// PropertyManagement.DataAccess/Repositories/IRepository.cs
 namespace PropertyManagement.DataAccess.Repositories
 {
+    //Basic CRUD that most repos will use
     public interface IRepository<T> where T : class
     {
         Task<IEnumerable<T>> GetAllAsync();

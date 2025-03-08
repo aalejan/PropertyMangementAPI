@@ -11,8 +11,8 @@
         public decimal SecurityDeposit { get; set; }
         public bool IsOccupied { get; set; }
         public UnitType Type { get; set; }
-        public string Description { get; set; }
-        public string Amenities { get; set; }
+        public string? Description { get; set; }
+        public string? Amenities { get; set; }
         public DateTime? LastRenovationDate { get; set; }
 
         // Foreign Keys

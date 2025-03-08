@@ -7,6 +7,7 @@ namespace PropertyManagement.DataAccess.Repositories
 {
     public interface ITenantRepository : IRepository<Tenant>
     {
+        //custom property specific to tenant
         Task<IEnumerable<Tenant>> GetTenantsByUnitIdAsync(int unitId);
         Task<IEnumerable<Tenant>> GetTenantsByPropertyIdAsync(int propertyId);
     }

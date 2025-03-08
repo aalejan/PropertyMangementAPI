@@ -1,6 +1,4 @@
-﻿using System.Reflection.Metadata;
-
-namespace PropertyManagement.DataAccess.Entities
+﻿namespace PropertyManagement.DataAccess.Entities
 {
     public class Tenant
     {
@@ -10,14 +8,14 @@ namespace PropertyManagement.DataAccess.Entities
         public string Email { get; set; }
         public string PhoneNumber { get; set; }
         public DateTime DateOfBirth { get; set; }
-        public string SSN { get; set; } // Consider encryption for sensitive data
-        public string DriverLicenseNumber { get; set; }
+        public string? SSN { get; set; } // Consider encryption for sensitive data
+        public string? DriverLicenseNumber { get; set; }
         public decimal Income { get; set; }
-        public string Occupation { get; set; }
-        public string Employer { get; set; }
-        public string EmergencyContactName { get; set; }
-        public string EmergencyContactPhone { get; set; }
-        public string EmergencyContactRelationship { get; set; }
+        public string? Occupation { get; set; }
+        public string? Employer { get; set; }
+        public string? EmergencyContactName { get; set; }
+        public string? EmergencyContactPhone { get; set; }
+        public string? EmergencyContactRelationship { get; set; }
         public bool IsActive { get; set; } = true;
 
         // For SendGrid notifications
