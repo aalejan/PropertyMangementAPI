@@ -4,6 +4,8 @@ using PropertyManagement.DataAccess.Data;
 
 namespace PropertyManagement.DataAccess.Repositories
 {
+    //Works with different entity types
+    //
     public class Repository<T> : IRepository<T> where T : class
     {
         protected readonly ApplicationDbContext _context;

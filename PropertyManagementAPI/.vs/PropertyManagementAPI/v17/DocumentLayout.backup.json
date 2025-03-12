@@ -3,48 +3,76 @@
   "WorkspaceRootPath": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\propertymanagementapi\\propertymanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|solutionrelative:propertymanagementapi\\propertymanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\propertymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|solutionrelative:propertymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\entities\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\entities\\unit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\propertymanagementapi\\controllers\\unitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|solutionrelative:propertymanagementapi\\controllers\\unitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\entities\\lease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\entities\\lease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\propertymanagementapi\\propertymanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|solutionrelative:propertymanagementapi\\propertymanagementapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\repositories\\unitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\repositories\\unitrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\repositories\\leaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\repositories\\leaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\propertymanagementapi\\controllers\\unitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|solutionrelative:propertymanagementapi\\controllers\\unitscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\propertymanagementapi\\controllers\\leasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|solutionrelative:propertymanagementapi\\controllers\\leasecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\propertymanagementapi\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|solutionrelative:propertymanagementapi\\controllers\\propertiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\propertymanagementapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|solutionrelative:propertymanagementapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\repositories\\leaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\repositories\\leaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\entities\\lease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\entities\\lease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\propertymanagementapi\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|solutionrelative:propertymanagementapi\\controllers\\tenantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\repositories\\tenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\repositories\\tenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\data\\applicationdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\repositories\\propertyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\propertymanagementapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -55,20 +83,8 @@
       "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\entities\\maintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\propertymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AABA0E6-12C2-4BCB-B130-E22F30C1649B}|PropertyManagementAPI\\PropertyManagementAPI.csproj|solutionrelative:propertymanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\entities\\property.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\repositories\\tenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\repositories\\tenantrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\entities\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -87,10 +103,6 @@
       "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\entities\\propertyexpense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\entities\\tenant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|c:\\repos\\propertymangementapi\\propertymanagementapi\\dataaccess\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F95DA108-59C1-4634-B447-8AA0F4A72197}|DataAccess\\PropertyManagement.DataAccess.csproj|solutionrelative:dataaccess\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -102,115 +114,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UnitsController.cs",
-              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Controllers\\UnitsController.cs",
-              "RelativeDocumentMoniker": "PropertyManagementAPI\\Controllers\\UnitsController.cs",
-              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Controllers\\UnitsController.cs",
-              "RelativeToolTip": "PropertyManagementAPI\\Controllers\\UnitsController.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAADwvyAAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\Repository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\Repository.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\Repository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\Repository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA1wCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-08T04:36:18.608Z",
+              "WhenOpened": "2025-03-07T04:32:04.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "DataAccess\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:05:30.3Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "PropertiesController.cs",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Controllers\\PropertiesController.cs",
               "RelativeDocumentMoniker": "PropertyManagementAPI\\Controllers\\PropertiesController.cs",
               "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Controllers\\PropertiesController.cs",
               "RelativeToolTip": "PropertyManagementAPI\\Controllers\\PropertiesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T04:51:22.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "UnitRepository.cs",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\UnitRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\UnitRepository.cs",
               "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\UnitRepository.cs",
               "RelativeToolTip": "DataAccess\\Repositories\\UnitRepository.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAQwEEAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T04:33:08.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PropertyRepository.cs",
-              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\PropertyRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\PropertyRepository.cs",
-              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\PropertyRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\PropertyRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Unit.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Unit.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\Unit.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Unit.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\Unit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:32:35.356Z",
+              "WhenOpened": "2025-03-07T02:08:26.879Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\IRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\IRepository.cs",
-              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\IRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "PropertyManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Program.cs",
+              "RelativeToolTip": "PropertyManagementAPI\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAwDkAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:16:28.768Z",
+              "WhenOpened": "2025-03-07T02:50:28.534Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
+              "Title": "TenantController.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Controllers\\TenantController.cs",
+              "RelativeDocumentMoniker": "PropertyManagementAPI\\Controllers\\TenantController.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Controllers\\TenantController.cs",
+              "RelativeToolTip": "PropertyManagementAPI\\Controllers\\TenantController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T19:42:46.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Lease.cs",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Lease.cs",
               "RelativeDocumentMoniker": "DataAccess\\Entities\\Lease.cs",
               "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Lease.cs",
               "RelativeToolTip": "DataAccess\\Entities\\Lease.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T02:09:33.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LeaseRepository.cs",
-              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\LeaseRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\LeaseRepository.cs",
-              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\LeaseRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\LeaseRepository.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwC0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:36:48.584Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PropertyManagementAPI",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\PropertyManagementAPI.csproj",
               "RelativeDocumentMoniker": "PropertyManagementAPI\\PropertyManagementAPI.csproj",
@@ -223,33 +222,137 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Unit.cs",
-              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Unit.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Entities\\Unit.cs",
-              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Unit.cs",
-              "RelativeToolTip": "DataAccess\\Entities\\Unit.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAxwA4AAAAWAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UnitsController.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Controllers\\UnitsController.cs",
+              "RelativeDocumentMoniker": "PropertyManagementAPI\\Controllers\\UnitsController.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Controllers\\UnitsController.cs",
+              "RelativeToolTip": "PropertyManagementAPI\\Controllers\\UnitsController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAD4AAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:08:26.879Z",
+              "WhenOpened": "2025-03-08T04:36:18.608Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
+              "Title": "LeaseController.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Controllers\\LeaseController.cs",
+              "RelativeDocumentMoniker": "PropertyManagementAPI\\Controllers\\LeaseController.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Controllers\\LeaseController.cs",
+              "RelativeToolTip": "PropertyManagementAPI\\Controllers\\LeaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T00:30:12.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:16:28.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TenantRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\TenantRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\TenantRepository.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\TenantRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\TenantRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:36:14.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "PropertyManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "PropertyManagementAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T04:33:47.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LeaseRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\LeaseRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\LeaseRepository.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\LeaseRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\LeaseRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:36:48.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "ApplicationDbContextFactory.cs",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Data\\ApplicationDbContextFactory.cs",
               "RelativeDocumentMoniker": "DataAccess\\Data\\ApplicationDbContextFactory.cs",
               "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Data\\ApplicationDbContextFactory.cs",
               "RelativeToolTip": "DataAccess\\Data\\ApplicationDbContextFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-07T03:26:28.887Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
+              "Title": "Tenant.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Tenant.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Entities\\Tenant.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Tenant.cs",
+              "RelativeToolTip": "DataAccess\\Entities\\Tenant.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:09:08.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PropertyRepository.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\PropertyRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\PropertyRepository.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\PropertyRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\PropertyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T04:32:35.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DataAccess\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T02:05:30.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\appsettings.json",
               "RelativeDocumentMoniker": "PropertyManagementAPI\\appsettings.json",
@@ -262,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 19,
               "Title": "MaintenanceRequest.cs",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\MaintenanceRequest.cs",
               "RelativeDocumentMoniker": "DataAccess\\Entities\\MaintenanceRequest.cs",
@@ -275,7 +378,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Property.cs",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Property.cs",
               "RelativeDocumentMoniker": "DataAccess\\Entities\\Property.cs",
@@ -288,46 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Program.cs",
-              "RelativeDocumentMoniker": "PropertyManagementAPI\\Program.cs",
-              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\PropertyManagementAPI\\Program.cs",
-              "RelativeToolTip": "PropertyManagementAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:50:28.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\Repository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\Repository.cs",
-              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\Repository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\Repository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBYAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:32:04.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "TenantRepository.cs",
-              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\TenantRepository.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\TenantRepository.cs",
-              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Repositories\\TenantRepository.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\TenantRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T04:36:14.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Document.cs",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Document.cs",
               "RelativeDocumentMoniker": "DataAccess\\Entities\\Document.cs",
@@ -340,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "PropertyManagement.DataAccess",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\PropertyManagement.DataAccess.csproj",
               "RelativeDocumentMoniker": "DataAccess\\PropertyManagement.DataAccess.csproj",
@@ -353,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 24,
               "Title": "PropertyExpense.cs",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\PropertyExpense.cs",
               "RelativeDocumentMoniker": "DataAccess\\Entities\\PropertyExpense.cs",
@@ -367,19 +431,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "Tenant.cs",
-              "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Tenant.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Entities\\Tenant.cs",
-              "ToolTip": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Tenant.cs",
-              "RelativeToolTip": "DataAccess\\Entities\\Tenant.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T02:09:08.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
               "Title": "Notification.cs",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Notification.cs",
               "RelativeDocumentMoniker": "DataAccess\\Entities\\Notification.cs",
@@ -392,7 +443,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 25,
               "Title": "Payment.cs",
               "DocumentMoniker": "C:\\Repos\\PropertyMangementAPI\\PropertyManagementAPI\\DataAccess\\Entities\\Payment.cs",
               "RelativeDocumentMoniker": "DataAccess\\Entities\\Payment.cs",

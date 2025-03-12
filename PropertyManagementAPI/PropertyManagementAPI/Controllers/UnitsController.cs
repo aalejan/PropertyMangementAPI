@@ -145,20 +145,35 @@ namespace PropertyManagement.API.Controllers
     public class UnitCreateDto
     {
         public string UnitNumber { get; set; }
-        public int PropertyId { get; set; }
+        public decimal SquareFootage { get; set; }
         public int Bedrooms { get; set; }
-        public decimal Bathrooms { get; set; }
-        public int SquareFootage { get; set; }
+        public int Bathrooms { get; set; }
         public decimal MonthlyRent { get; set; }
+        public decimal SecurityDeposit { get; set; }
+        public UnitType Type { get; set; }
+        public string? Description { get; set; }
+        public string? Amenities { get; set; }
+        public DateTime? LastRenovationDate { get; set; }
+
+        // Foreign Keys
+        public int PropertyId { get; set; }
     }
 
     public class UnitUpdateDto
     {
         public string UnitNumber { get; set; }
+        public decimal SquareFootage { get; set; }
         public int Bedrooms { get; set; }
-        public decimal Bathrooms { get; set; }
-        public int SquareFootage { get; set; }
+        public int Bathrooms { get; set; }
         public decimal MonthlyRent { get; set; }
+        public decimal SecurityDeposit { get; set; }
         public bool IsOccupied { get; set; }
+        public UnitType Type { get; set; }
+        public string? Description { get; set; }
+        public string? Amenities { get; set; }
+        public DateTime? LastRenovationDate { get; set; }
+
+        // Foreign Keys
+        public int PropertyId { get; set; }
     }
 }

@@ -11,11 +11,11 @@ namespace PropertyManagement.DataAccess.Data
             var optionsBuilder = new DbContextOptionsBuilder<ApplicationDbContext>();
             var builder = new NpgsqlConnectionStringBuilder
             {
-                Host = "",
-                Port = ,
-                Database = "",
-                Username = "",
-                Password = ""
+                Host = "tramway.proxy.rlwy.net",
+                Port = 37797,
+                Database = "railway",
+                Username = "postgres",
+                Password = "RqumCoPEQDjjZjmEmUUwoypwcFLdwBFo"
             };
 
             optionsBuilder.UseNpgsql(builder.ToString());
